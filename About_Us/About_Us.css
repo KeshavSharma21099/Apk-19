@@ -6,7 +6,7 @@
 }
 
 header{
-	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,8)), url('bg.jpg');
+	background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('bg4.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
@@ -16,5 +16,39 @@ body{
 	font-size: 20px;
 	overflow-x: hidden;
 	color: white;
-	font-family: 'Flamenco', cursive;
+	font-family: 'Crimson Text', serif;
+}
+
+h1{
+	width: 100%;
+	color: #3785a9;
+	font-size: 300%;
+	word-spacing: 5px;
+	letter-spacing: 2px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.main-content-header{
+	width: 600px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-99%, -50%);
+}
+
+span{
+	font-size: 120%;
+	color: #885c4c;
+}
+
+p{
+	color: #885c4c;
+	font-family: 'Crimson Text', serif;
+	font-size: 90%;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	margin-bottom: 10px;
 }
