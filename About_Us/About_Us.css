@@ -21,7 +21,7 @@ body{
 
 h1{
 	width: 100%;
-	color: #3785a9;
+	color: #9a7505;
 	font-size: 300%;
 	word-spacing: 5px;
 	letter-spacing: 2px;
@@ -41,12 +41,13 @@ h1{
 
 span{
 	font-size: 120%;
-	color: #885c4c;
+	color: #999999;
 }
 
 p{
-	color: #885c4c;
+	color: #805d29;
 	font-family: 'Crimson Text', serif;
+	font-weight: bold;
 	font-size: 90%;
 	word-spacing: 3px;
 	letter-spacing: 1px;
